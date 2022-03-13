@@ -15,7 +15,8 @@ drawRactangle2({
     length: 20
 });
 class Player6 {
-    constructor(name, age, country) {
+    constructor(name, //here we can't set private accesss modifier explicitly.if we want;need to do in different process//(learn in future)
+    age, country) {
         this.name = name;
         this.age = age;
         this.country = country;

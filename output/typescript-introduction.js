@@ -18,3 +18,6 @@
 //Familiar with Object Oriented Programming
 //New Features work everywhere
 //error shows before compile
+//Installation:
+//1.firstly,we need to do install node.js.
+//2.secondly,go in terminal or cmd and type the command npm i -g typescript
